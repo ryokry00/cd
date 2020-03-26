@@ -1,8 +1,5 @@
 <style>
 
-  #top{
-    border-top: 10px solid black;
-  }
 
   body{
     text-align: center;
@@ -11,6 +8,7 @@
   nav{
     text-align: right;
     font-family: monospace;
+    border-bottom: 10px solid black;
   }
 
   h6{
