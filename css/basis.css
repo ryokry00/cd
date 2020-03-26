@@ -5,6 +5,10 @@
     font-family: monospace;
    }
 
+  nav{
+    text-align: right;
+    font-family: monospace;
+  }
 
    header{
      text-align: center;
